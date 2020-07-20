@@ -10,9 +10,9 @@
 
  备用站点选择页 https://www.sirin.xyz/beiyong.htm
 
-   备用git线 https://gitnov.sirin.xyz
+————备用git线 https://gitnov.sirin.xyz
 
-   备用cod线 https://codnov.sirin.xyz
+————备用cod线 https://codnov.sirin.xyz
 
 文库状态显示 https://status.sirin.xyz
 
