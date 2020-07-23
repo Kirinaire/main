@@ -1,3 +1,11 @@
+#draw卡池列表
+[明日方舟](https://forum.kokona.tech/d/91-arknights)
+[明日方舟2](https://forum.kokona.tech/d/182-arknights)
+[20200723](https://forum.kokona.tech/d/191)
+[战术人形](https://forum.kokona.tech/d/142)
+[圣诞祝福](https://forum.kokona.tech/d/105)
+
+
 ###填加词条(完整匹配)               开启        自定义权限1          完整问{问题内容}答{回答内容}
 ###填加词条(关键词匹配)            开启        自定义权限1         含有{问题内容}答{回答内容}
 ###填加词条(正则表达式)            开启        自定义权限1          正则问{问题内容}答{回答内容}
