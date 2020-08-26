@@ -1,4 +1,6 @@
 #draw卡池列表
+.draw 碧蓝牌堆介绍
+
 [明日方舟](https://forum.kokona.tech/d/91-arknights)
 
 [明日方舟2](https://forum.kokona.tech/d/182-arknights)
