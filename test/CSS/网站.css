@@ -1,0 +1,141 @@
+.导航框{
+position: relative;
+	width: 100%;
+	background: #333;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	font-size: 20px;
+	font-family: "arial black";
+	font-weight: inherit;
+}
+
+.text-default0{
+	color: aqua;
+	text-align: center;
+	/* font: ; */
+}
+
+.centent1{
+text-align: center;
+color: red;
+/* font: ; */
+}
+
+
+#img1{
+	opacity: 40%;
+	
+}
+
+.text-default1{
+	color: aquamarine;
+	/* float: ; */
+}
+
+.centent2{
+text-align: center;
+color: yellow;
+/* font: ; */
+}
+
+
+
+#img2{
+	opacity: 50%;
+	
+}
+
+.centent3{
+	text-align: center;
+	color: blue;
+	/* font: ; */
+}
+
+.text-default3{
+	color: #00FFFF;
+	/* font: ; */
+}
+
+.text-default2{
+	color: aqua;
+	/* font: ; */
+}
+
+#img3{
+	opacity: 50%;
+	
+}
+
+.centent4{
+	text-align: center;
+	color: white;
+	/* font: ; */
+}
+
+.text-default4{
+	color: aqua;
+	/* font: ; */
+}
+
+#img4{
+	opacity: 50%;
+	
+}
+
+a {
+	color: #566473;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: #34495e;
+}
+
+
+#top{
+	padding: 20px 0;
+	width: 100%;
+	/* background-color: #222; */
+}
+li{list-style: none;}
+.toplist{
+	display: table;
+	width: 100%;
+}
+.toplist li{display: table-cell;}
+.toplist li>a{
+	display: block;
+	text-align: center;
+	/* color: white; */
+}
+.codrops-demos {
+	padding-top: 1em;
+	font-size: 0.8em;
+	text-align:center;
+}
+
+.codrops-demos a {
+	display: inline-block;
+	margin: 0.35em 0.1em;
+	padding: 0.5em 1.2em;
+	outline: none;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	border-radius: 2px;
+	font-size: 110%;
+	border: 2px solid transparent;
+}
+
+.codrops-demos a:hover,
+.codrops-demos a.current-demo {
+	border-color: #383a3c;
+}
+nav{
+	background-color: black;
+}
+nav:hover {
+	background-color: aliceblue;
+}
