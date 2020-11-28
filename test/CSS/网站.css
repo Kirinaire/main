@@ -133,9 +133,9 @@ li{list-style: none;}
 .codrops-demos a.current-demo {
 	border-color: #383a3c;
 }
-nav{
+li{
 	background-color: black;
 }
-nav:hover {
+li:hover {
 	background-color: aliceblue;
 }
