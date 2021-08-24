@@ -2,24 +2,24 @@
 
  主要为ios用户提供
 
- 文库主站 http://nov.phantom-sea-limited.ltd/
+ 文库主站 ***已删除
 
- 文库测试点 http://test.phantom-sea-limited.ltd/
+ 文库测试点 ***已删除
 
  幻海实验室主页 https://www.phantom-sea-limited.ltd/
 
- 备用站点选择页 https://www.sirin.xyz/beiyong.htm
+ 备用站点选择页 https://www.sirin.top/beiyong.htm
 
-————备用git线 https://gitnov.sirin.xyz
+————备用git线 ***已删除
 
-————备用cod线 https://codnov.sirin.xyz
+————备用cod线 ***已删除
 
-文库状态显示 https://status.sirin.xyz
+文库状态显示 ***已删除
 
-西琳的虚数空间 https://www.sirin.xyz
+西琳的虚数空间 https://www.sirin.top
 
-pixiv国内代理快速传送门 https://www.sirin.xyz/pixiv.htm
+pixiv国内代理快速传送门 https://www.sirin.top/pixiv.htm
 
-小游戏 https://www.sirin.xyz/game.htm
+小游戏 https://www.sirin.top/game.htm
 
-# 最近更新 2020.7.20
+# 最近更新 2021.8.24
